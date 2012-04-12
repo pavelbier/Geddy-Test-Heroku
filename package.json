@@ -1,0 +1,8 @@
+{
+  "name": "geddytest",
+  "version": "0.0.1",
+  "dependencies": {
+    "geddy": "0.3.18",
+    "metrics" : "0.1.6"
+  }
+}
